@@ -1,4 +1,3 @@
-from crypt import methods
 from flask import Flask, request
 from src.services import citizen_services
 from src.services import police_services
